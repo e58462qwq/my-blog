@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "e93a4d083daa853b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2be0b2fa5d1993e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "274a71e1cb78a80c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/bokedeyibosanzhe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bokedeyibosanzhe"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bbf9bddf82b6246",
+    "type": "split",
+    "children": [
+      {
+        "id": "088884e0624085ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "015214ba245fba90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "020b7930907fb43b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0e73b259d3fff92f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85ae41eea9e07be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b3e0995002c75a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7f2a89a18468410",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/bokedeyibosanzhe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "bokedeyibosanzhe 的反向链接列表"
+            }
+          },
+          {
+            "id": "91a9eeec6a76df05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/bokedeyibosanzhe.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "bokedeyibosanzhe 的出链列表"
+            }
+          },
+          {
+            "id": "9e7ead546f34ab8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e790a5dcb3d63826",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a78fce9bebc7a1bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/bokedeyibosanzhe.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "bokedeyibosanzhe 的大纲"
+            }
+          },
+          {
+            "id": "1ef17ddd8029aa9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "posts/bokedeyibosanzhe.md"
+              },
+              "icon": "lucide-info",
+              "title": "bokedeyibosanzhe的笔记属性"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "015214ba245fba90",
+  "lastOpenFiles": [
+    "posts/1.md",
+    "posts-backup/draft.md",
+    "posts-backup/expressive-code.md",
+    "posts-backup/markdown-extended.md",
+    "spec/about.md",
+    "posts/guide/cover.jpeg",
+    "posts/markdown-extended.md",
+    "posts/markdown.md",
+    "posts/expressive-code.md",
+    "posts/draft.md",
+    "posts/video.md"
+  ]
+}
