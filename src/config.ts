@@ -69,11 +69,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:steam",
 			url: "https://store.steampowered.com",
 		},
-//		{
-//			name: "bilibili",
-//			icon: "simple-icons:bilibili",
-//			url: "https://space.bilibili.com/372554478",
-//		},
+		{
+			name: "bilibili",
+			icon: "fa6-brands:bilibili",
+			url: "https://space.bilibili.com/372554478",
+		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
