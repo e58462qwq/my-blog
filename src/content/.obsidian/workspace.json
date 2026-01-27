@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2be0b2fa5d1993e",
+        "id": "275396be12324f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "274a71e1cb78a80c",
+            "id": "25b56d170c9689cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,8 +196,11 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "015214ba245fba90",
+  "active": "25b56d170c9689cb",
   "lastOpenFiles": [
+    "img/bokedeyibosanzhe.png",
+    "posts/bokedeyibosanzhe.md",
+    "img",
     "posts/1.md",
     "posts-backup/draft.md",
     "posts-backup/expressive-code.md",
