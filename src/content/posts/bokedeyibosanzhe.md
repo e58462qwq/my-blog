@@ -2,7 +2,7 @@
 title: 博客的一波三折
 published: 2025-12-25
 description: 发一篇博客，只是想记录一下
-image: https://ipfs.jiu521.pp.ua/ipfs/QmTk7BqfWxGPGmjEuYzNB6U579GQkWvz1MXid6KbtqkTov
+image: "img/bokedeyibosanzhe.png"
 tags:
   - 杂谈
 category: 杂谈
