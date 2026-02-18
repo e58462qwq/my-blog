@@ -1,8 +1,8 @@
 ---
-title: 博客的一波三折
+title: 第一篇博文
 published: 2025-12-25
-description: 发一篇博客，只是想记录一下
-image: "img/bokedeyibosanzhe.png"
+description: 发一篇博客，记录一下
+image: img/diyipianbowen.png
 tags:
   - 杂谈
 category: 杂谈
@@ -13,9 +13,10 @@ lang: zh-CN
 
 >~~blog.jiu521.me~~
 
-ps:我部署不到一个月的时间,就已经被搜索引擎收录了，这是我没想到的😳
+虽然搭建了博客，但不知道能写些什么，可能会写些笔记，灌灌水
 
 ---
 
 现在使用静态部署，部署在Cloudflare Pages上
->不用管续费了，主要是没人用我也不想浪费钱，毕竟我现在也没什么项目是必须要服务器的
+
+>赛博大善人cloudflare
