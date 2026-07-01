@@ -15,11 +15,11 @@ lang: zh-CN
 最近在将sink更新到最新版本测试新功能时，新版本有个检测短链链接的功能，发现之前创建的短链出现了404，一看网址，是之前部署在edgeone的github反代
 
 还在想怎么回事，于是打开edgeone的控制台一看
-![屏幕截图_25-6-2026_03317_console.tencentcloud.com.jpeg](https://img.jiu521.pp.ua/file/Video/1782372970569.jpeg)
+![屏幕截图_25-6-2026_03317_console.tencentcloud.com.jpeg](https://img.jiu521.pp.ua/file/Uploads/1782372970569.jpeg)
 
 好嘛，近**7天505.9w**次，总流量**30.51GB**。
 
-![a16336f474e8b6edaa3c026932124f67.png](https://img.jiu521.pp.ua/file/Video/1782373228263.png)
+![a16336f474e8b6edaa3c026932124f67.png](https://img.jiu521.pp.ua/file/Uploads/1782373228263.png)
 
 从2026-06-17开始总共请求了有**603.97w**次，发生了什么？？？
 
@@ -27,11 +27,11 @@ lang: zh-CN
 
 一看统计
 
-![dc490152917a640493d4331eadb5a256.png](https://img.jiu521.pp.ua/file/Video/1782373343977.png)
+![dc490152917a640493d4331eadb5a256.png](https://img.jiu521.pp.ua/file/Uploads/1782373343977.png)
 
 bot？？？
 
-![dee484ad000d54e661a78edfc395259d.png](https://img.jiu521.pp.ua/file/Video/1782373434978.png)
+![dee484ad000d54e661a78edfc395259d.png](https://img.jiu521.pp.ua/file/Uploads/1782373434978.png)
 
 **claudebot？？？**
 
@@ -39,8 +39,8 @@ bot？？？
 
 打开AI爬虫处理后又拦截了4865次，然后请求就恢复正常了
 
-![image.png](https://img.jiu521.pp.ua/file/Video/1782374007285.png)
-![image.png](https://img.jiu521.pp.ua/file/Video/1782374178863.png)
+![image.png](https://img.jiu521.pp.ua/file/Uploads/1782374007285.png)
+![image.png](https://img.jiu521.pp.ua/file/Uploads/1782374178863.png)
 
 # 网页的404还是没有解决
 
@@ -50,7 +50,7 @@ bot？？？
 
 我去看了下官方频道有没有解决办法，但没找到，这个网站的源码我也忘记是哪个了
 
-![image.png](https://img.jiu521.pp.ua/file/Video/1782375469765.png)
+![image.png](https://img.jiu521.pp.ua/file/Uploads/1782375469765.png)
 
 检查了一下构建历史没有问题，于是直接回退版本
 
